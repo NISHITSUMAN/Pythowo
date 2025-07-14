@@ -92,7 +92,7 @@ hewwo, Nishit!
 
 Check out the official **PythOwO Playground UI**:
 
-👉 [https://github.com/YOUR_USERNAME/pythowo-playground](https://github.com/YOUR_USERNAME/pythowo-playground)
+👉 [CLICK HERE](https://pythowo-playground.vercel.app/)
 
 Write, run, and uwuify in the browser 💻✨
 
@@ -117,7 +117,7 @@ pythowo/
 PRs and stars are always welcome 🌟
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pythowo
+git clone https://github.com/NISHITSUMAN/Pythowo
 cd pythowo
 python pythowo.py your_code.pyowo
 ```
@@ -133,4 +133,4 @@ MIT License — use it, remix it, uwuify it, but don't ship it to production. Ev
 ## ⭐ GitHub
 
 Show some 💖 if it made you smile:  
-[https://github.com/YOUR_USERNAME/pythowo](https://github.com/YOUR_USERNAME/pythowo)
+[https://github.com/YOUR_USERNAME/pythowo](https://github.com/NISHITSUMAN/Pythowo)
