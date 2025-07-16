@@ -64,11 +64,43 @@ python pythowo.py exwamples/hewwo.pyowow
 ## 👨‍💻 Example Code
 
 ```py
-pwease name = inpwt()
-FWUNCTION say_hewwo(name):
-  pwint("hewwo, " + name + "!")
+pwease a = 5
+pwease b = 3
+pwease sum = a + b
+pwint("Sum is: " + sum)
+```
 
-say_hewwo(name)
+OR
+
+```py
+pwease score = 80
+IF score > 50 THWEN
+  pwint("Yay! You passed 🎉")
+ELSE
+  pwint("Oops! Twy again 😢")
+END
+```
+
+OR
+
+```py
+FWUNCTION squawe(x)
+  WETUWN x * x
+END
+
+pwint(squawe(6))
+```
+
+OR
+
+```py
+TWY
+  pwease a = 5 / 0
+  pwint(a)
+XCEPT
+  pwint("Oopsie! Cawn't divwide by zewo!")
+FINAWWY
+  pwint("Awways wun dis 💡")
 ```
 
 Save as `hewwo.pyowow` and run:
